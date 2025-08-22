@@ -1,6 +1,6 @@
-# ComplEase - Comprehensive Complaint Management System
+# QuickFix - Comprehensive Complaint Management System
 
-ComplEase is a full-stack web application designed to streamline complaint management processes with AI-powered features including intelligent chatbot support, automated categorization, and sentiment analysis.
+QuickFix is a full-stack web application designed to streamline complaint management processes with AI-powered features including intelligent chatbot support, automated categorization, and sentiment analysis.
 
 ## 🚀 Features
 
